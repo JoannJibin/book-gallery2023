@@ -1,0 +1,10 @@
+.row{height: 2300px;width: 1310px;background-color: black;position: relative;}
+
+.col{padding-top: 20px;top:100px}
+.col-1{background-color: rgb(83, 54, 0);height: 100%;width: 300px;position:absolute;left: 20px;}
+
+.col-2{background-color: rgb(78, 6, 232);width: 300px;height: 100%;position: absolute;left: 340px;}
+
+.col-3{background-color: rgb(207, 162, 13);width:300px;height: 100%;position: absolute;left: 660px;}
+
+.col-4{background-color: rgb(247, 131, 58);width: 300px ;height: 100%;position: absolute;left: 980px;}
